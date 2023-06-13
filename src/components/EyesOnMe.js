@@ -3,7 +3,7 @@ import React from 'react'
 
 function EyesOnMe() {
   return (
-    <div>EyesOnMe</div>
+    <button></button>
   )
 }
 
