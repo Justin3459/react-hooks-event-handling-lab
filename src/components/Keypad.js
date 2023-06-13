@@ -1,8 +1,15 @@
 // Code Keypad Component Here
+function KeypadHandler (){
+    return{
+    
+    }
+}
+
 
 function Keypad (){
     return (
-        <div></div>
+        <input/>
+        
     )
 }
 
