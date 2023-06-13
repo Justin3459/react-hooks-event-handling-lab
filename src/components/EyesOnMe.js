@@ -3,7 +3,7 @@ import React from 'react'
 
 function EyesOnMe() {
   return (
-    <button onFocus={} onBlur={}>Eyes on me</button>
+    <button onFocus={() => console.log('Good!')} onBlur={() => console.log('Hey! Eyes on me!')}>Eyes on me</button>
   )
 }
 
