@@ -8,7 +8,7 @@ function KeypadHandler (){
 
 function Keypad (){
     return (
-        <input type="password" onChange={}/>
+        <input type="password" onChange={(e) => console.log('Entering password...')}/>
         
     )
 }
